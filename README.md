@@ -8,7 +8,7 @@ Estudo Ciência de Dados e Inteligência Artificial na FGV EMAp e trabalho com a
 
 Plataforma acadêmica de delivery na AWS que simula pedidos e entregas, com previsão de tempo de entrega e um agente conversacional no Amazon Bedrock.
 
-**Minha contribuição.** Implementei a camada analítica e automatizei a implantação do dashboard Streamlit no ECS Fargate. [Ver o commit de implantação](https://github.com/LuuSamp/Dijkfood/commit/72a99d502d90a2407301de790f42911fa657a803).
+**Minha contribuição.** Implementei a camada analítica e automatizei a implantação do dashboard Streamlit no ECS Fargate. [Ver o commit de implantação](https://github.com/LuuSamp/Dijkfood/commit/72a99d502d90a2407301de790f42911fa657a803). Também colaborei, em pair programming, no desenvolvimento do modelo de previsão de tempo de entrega.
 
 ### [Dashboard B3](https://github.com/sodrelds/Dashboard-B3)
 
